@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Matheus Vinicius S Chaves!
 
-Sou estudante e desenvolvedor focado em criar soluções eficientes e aprender novas tecnologias. Atualmente, venho aprimorando minhas habilidades em programação, lógica de desenvolvimento e estruturação de projetos, com foco principal no ecossistema Java.
+Sou estudante e desenvolvedor focado em criar soluções eficientes e aprender novas tecnologias. Atualmente, venho aprimorando minhas habilidades em programação, lógica de desenvolvimento e estruturação de projetos, com foco principal no ecossistema Java, porém com vontade e disposição para aprender outras linguagens.
 
-Meu objetivo é continuar evoluindo tecnicamente, criar projetos de impacto e me preparar para os desafios do mercado de desenvolvimento de software.
+Meu objetivo é continuar evoluindo tecnicamente, criar projetos de impacto e me preparar para os desafios do mercado.
 
 ---
 
@@ -12,7 +12,7 @@ Aqui estão algumas das tecnologias com as quais tenho afinidade e venho estudan
 
 | | | |
 | --- | --- | --- |
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) |
 
 ---
 
