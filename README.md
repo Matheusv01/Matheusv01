@@ -19,8 +19,8 @@ Meu objetivo é continuar evoluindo tecnicamente, criar projetos de impacto e me
 ## 📊 Minhas Estatísticas do GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matheusv01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matheusv01&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matheusv01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matheusv01&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
