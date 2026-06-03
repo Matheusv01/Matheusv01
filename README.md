@@ -1,8 +1,12 @@
 # 👋 Olá, eu sou o Matheus Vinicius S Chaves!
 
-Sou estudante e desenvolvedor focado em criar soluções eficientes e aprender novas tecnologias. Atualmente, venho aprimorando minhas habilidades em programação, lógica de desenvolvimento e estruturação de projetos, com foco principal no ecossistema Java, porém com vontade e disposição para aprender outras linguagens.
+🇧🇷 Sou estudante e desenvolvedor focado em criar soluções eficientes e aprender novas tecnologias. Atualmente, venho aprimorando minhas habilidades em programação, lógica de desenvolvimento e estruturação de projetos, com foco principal no ecossistema Java, porém com vontade e disposição para aprender outras linguagens.
 
 Meu objetivo é continuar evoluindo tecnicamente, criar projetos de impacto e me preparar para os desafios do mercado.
+
+🇺🇸 I am a student and developer focused on creating efficient solutions and learning new technologies. Currently, I am honing my skills in programming, development logic, and project structuring, with a primary focus on the Java ecosystem, but always eager and ready to learn other languages. 
+
+My goal is to keep evolving technically, build impactful projects, and prepare myself for market challenges.
 
 ---
 
