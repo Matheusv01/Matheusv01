@@ -1,4 +1,4 @@
-# Konichiwa 👋
+# 👋 Olá, eu sou o Matheus Vinicius S Chaves!
 
 <div align="center">
   <img height="300" width="700" alt="GIF Header" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
@@ -58,14 +58,11 @@
 
 ---
 
-# 📬 Onde me encontrar / Contact Me
+# 📸 Instagram
 
 <p align="left">
-  <a href="mailto:seu-email@email.com">
-    <img align="left" alt="Gmail" width="130" height="40" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-  </a>
-  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
-    <img align="left" alt="Linkedin" width="150" height="40" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+  <a href="https://www.instagram.com/th_xt10/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
