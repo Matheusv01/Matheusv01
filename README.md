@@ -1,4 +1,9 @@
-# 👋 Olá, eu sou o Matheus Vinicius S Chaves!
+<div align="center">
+  <img height="100" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Waving Hand" />
+  <h1>Olá, eu sou o Matheus Vinicius S Chaves! / Hello, I'm Matheus Vinicius S Chaves!</h1>
+</div>
+
+---
 
 <div align="center">
   <img height="300" width="700" alt="GIF Header" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
