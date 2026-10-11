@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img height="300" width="700" alt="GIF Header" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+  <img height="280" alt="Boy and Dog Dancing GIF" src="https://media.giphy.com/media/k1PsI92gw7YPSPYFKm/giphy.gif">
 </div>
 
 <br />
@@ -18,15 +18,23 @@
 
 ### 🇧🇷
 - 💻 Sou estudante e desenvolvedor focado em criar soluções eficientes e aprender novas tecnologias.
+
 - 🚀 Atualmente, venho aprimorando minhas habilidades em programação, lógica de desenvolvimento e estruturação de projetos.
+
 - ☕ Meu foco principal está no ecossistema **Java**, mas sempre com disposição e vontade para aprender novas linguagens.
+
 - 🎯 **Objetivo:** Continuar evoluindo tecnicamente, criar projetos de impacto e me preparar para os desafios do mercado.
+
 
 ### 🇺🇸
 - 💻 I am a student and developer focused on creating efficient solutions and learning new technologies.
+
 - 🚀 Currently, I am honing my skills in programming, development logic, and project structuring.
+
 - ☕ My primary focus is on the **Java** ecosystem, always ready and eager to learn other languages.
+
 - 🎯 **Goal:** Keep evolving technically, build impactful projects, and prepare myself for market challenges.
+
 
 <br />
 <br />
