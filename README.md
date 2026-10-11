@@ -14,7 +14,9 @@
 
 # 💬 Sobre Mim / About Me
 
+<div align = "center">
 <img height="400" width="450" alt="Coding GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+</div>
 
 ### 🇧🇷
 -  Sou estudante e desenvolvedor focado em criar soluções eficientes e aprender novas tecnologias.
