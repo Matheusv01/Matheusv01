@@ -6,7 +6,7 @@
 ---
 
 <div align="center">
-  <img height="280" alt="Boy and Dog Dancing GIF" src="https://media.giphy.com/media/k1PsI92gw7YPSPYFKm/giphy.gif">
+  <img height="300" alt="Boy and Dog Dancing GIF" src="https://media1.giphy.com/media/k1PsI92gw7YPSPYFKm/giphy.gif">
 </div>
 
 <br />
