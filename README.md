@@ -14,7 +14,7 @@
 
 # 💬 Sobre Mim / About Me
 
-<img height="400" width="450" alt="Coding GIF" align="right" src="[https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExajdwZHkzb3BpZ2l3MGoydXNqZjE2dWQ3eWJ5aWM5bTByaTBzN3Q1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/d3MMnbH8fCROTDYk/giphy.gif)">
+<img height="400" width="450" alt="Coding GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### 🇧🇷
 - 💻 Sou estudante e desenvolvedor focado em criar soluções eficientes e aprender novas tecnologias.
