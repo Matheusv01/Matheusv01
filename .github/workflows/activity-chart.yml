@@ -1,0 +1,40 @@
+
+name: Atualizar gráfico de atividade
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */6 * * *"
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
+      - name: Gerar gráficos de atividade
+        uses: dturovskiy/deus-commit-chart@v1.5.3
+        with:
+          source: github
+          username: ${{ github.repository_owner }}
+          token: ${{ github.token }}
+          default-days: "30"
+          ranges: "30,90,365"
+          layout: spacious
+          output-dir: activity-dist
+
+      - name: Publicar gráficos
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: activity-assets
+          publish_dir: ./activity-dist
+          force_orphan: true
