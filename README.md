@@ -40,7 +40,8 @@
 
 ---
 
- 🕳️this is...
+
+ ## 🕳️this is...
 
 <div align="center">
 
@@ -61,9 +62,4 @@
   <a href="https://www.instagram.com/th_xt10/">
     <img src="https://img.shields.io/badge/Instagram-8A2BE2?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-
-  <a href="https://github.com/Matheusv01">
-    <img src="https://img.shields.io/badge/GitHub-6F42C1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-
 </div>
