@@ -35,21 +35,13 @@ Sobre mim
 
   <p>
     <b>Ferramentas e Tecnologias:</b><br>
-    <img src="https://skillicons.dev/icons?i=git,github,idea" alt="Git, GitHub e IntelliJ IDEA" height="40" />
+    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,vercel" alt="Git, GitHub, IntelliJ IDEA, VS Code e Vercel" height="40" />
   </p>
 
   <p>
     <b>Desenvolvimento Web:</b><br>
     <img src="https://skillicons.dev/icons?i=html,css" alt="HTML5 e CSS3" height="40" />
   </p>
-
-</div>
-
-Estatísticas do GitHub
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Matheusv01&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusv01&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" alt="Linguagens mais utilizadas" />
 
 </div>
 
