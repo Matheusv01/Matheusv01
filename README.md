@@ -11,15 +11,6 @@
 
 ---
 
-## 👨‍💻 Sobre mim
-
-- Sou estudante e desenvolvedor em formação, interessado em tecnologia e resolução de problemas.
-- Estou aprimorando meus conhecimentos em lógica de programação, orientação a objetos e desenvolvimento de software.
-- Tenho foco especial no ecossistema Java e busco aprender novas ferramentas por meio de projetos práticos.
-- Meu objetivo é evoluir continuamente, construir projetos bem estruturados e me preparar para os desafios do mercado de tecnologia.
-
----
-
 ## 🛠️ Habilidades tecnológicas
 
 <div align="center">
@@ -40,7 +31,7 @@
 
 ---
 
-## 📊 Minhas Estatísticas
+## 📊 Estatísticas
 
 <div align="center">
   <img height="180em" width="49%" src="https://github-readme-stats.vercel.app/api?username=Matheusv01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BF91F3&text_color=FFFFFF&icon_color=9D7BFF&ring_color=8A2BE2&include_all_commits=true" alt="Estatísticas do GitHub" />
@@ -49,7 +40,7 @@
 
 ---
 
-## 🐍 Cobrinha das contribuições
+ 🕳️this is...
 
 <div align="center">
 
