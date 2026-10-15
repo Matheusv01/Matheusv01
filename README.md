@@ -22,15 +22,26 @@ Sobre mim
 - Meu objetivo é evoluir continuamente, construir projetos bem estruturados e me preparar para os desafios do mercado de tecnologia.
 <br clear="right"/>
 
-Tecnologias e ferramentas
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <h3>🛠️ Habilidades Tecnológicas</h3>
+  
+  <p>Aqui estão algumas das tecnologias e ferramentas que utilizo:</p>
+
+  <p>
+    <b>Linguagens de Programação:</b><br>
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" height="40" />
+  </p>
+
+  <p>
+    <b>Ferramentas e Tecnologias:</b><br>
+    <img src="https://skillicons.dev/icons?i=git,github,idea" alt="Git, GitHub e IntelliJ IDEA" height="40" />
+  </p>
+
+  <p>
+    <b>Desenvolvimento Web:</b><br>
+    <img src="https://skillicons.dev/icons?i=html,css" alt="HTML5 e CSS3" height="40" />
+  </p>
 
 </div>
 
