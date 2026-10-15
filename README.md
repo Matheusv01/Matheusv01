@@ -41,7 +41,7 @@
 ---
 
 
- ## 🕳️this is...
+ ## 🕳️This is...
 
 <div align="center">
 
@@ -55,7 +55,7 @@
 
 ---
 
-## 🤝 Vamos nos conectar
+## 🤝 Contato
 
 <div align="center">
 
