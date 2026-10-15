@@ -40,14 +40,12 @@
 
 ---
 
-## 📊 GitHub
-
+## 📊 Minhas Estatísticas
+<p align="left">
 <div align="center">
-
   <img
     height="180em"
     src="https://github-readme-stats.vercel.app/api?username=Matheusv01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BF91F3&text_color=FFFFFF&icon_color=9D7BFF&ring_color=8A2BE2&include_all_commits=true"
-    alt="Estatísticas do GitHub"
   />
 
   <img
@@ -55,7 +53,6 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheusv01&layout=compact&hide_border=true&bg_color=0D1117&title_color=BF91F3&text_color=FFFFFF&langs_count=6"
     alt="Linguagens mais utilizadas"
   />
-
 </div>
 
 ---
