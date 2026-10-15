@@ -8,7 +8,7 @@
 
 
 
-<div align="center">
+<div align="left">
 
   <h3>🛠️ Habilidades Tecnológicas</h3>
   
