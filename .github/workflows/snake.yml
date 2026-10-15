@@ -16,13 +16,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Matheusv01
           outputs: |
-            dist/snake.svg?color_snake=#BF91F3&color_dots=#1A1025,#3B1D5A,#6F42C1,#9D7BFF,#E0C3FC
+            dist/snake.svg?color_snake=%23BF91F3&color_dots=%231A1025,%233B1D5A,%236F42C1,%239D7BFF,%23E0C3FC
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Publish snake
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
