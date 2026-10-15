@@ -6,21 +6,12 @@
   <h3>Estudante de programação | Desenvolvedor em evolução</h3>
 
   <img src="https://komarev.com/ghpvc/?username=Matheusv01&label=VISITAS%20AO%20PERFIL&color=8A2BE2&style=for-the-badge" alt="Contador de visitantes do perfil" />
-
 </div>
 
 <div align="center">
   <img height="260" src="https://i.giphy.com/media/k1Psl92gw7YPSPYFKm/giphy.webp" alt="Animação de dança" />
 </div>
 
-Sobre mim
-<img align="right" height="180" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif" alt="Animação de programação" />
-
-- Sou estudante e desenvolvedor em formação, interessado em tecnologia e resolução de problemas.
-- Estou aprimorando meus conhecimentos em lógica de programação, orientação a objetos e desenvolvimento de software.
-- Tenho foco especial no ecossistema Java e busco aprender novas ferramentas por meio de projetos práticos.
-- Meu objetivo é evoluir continuamente, construir projetos bem estruturados e me preparar para os desafios do mercado de tecnologia.
-<br clear="right"/>
 
 <div align="center">
 
