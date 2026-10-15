@@ -49,20 +49,6 @@
 
 ---
 
-## 📈 Atividade de contribuições
-
-<div align="center">
-
-  <img
-    src="https://raw.githubusercontent.com/Matheusv01/Matheusv01/activity-assets/activity-30d.svg"
-    alt="Gráfico de atividade do GitHub dos últimos 30 dias"
-    width="100%"
-  />
-
-</div>
-
----
-
 ## 🐍 Cobrinha das contribuições
 
 <div align="center">
@@ -72,16 +58,6 @@
     alt="Animação da cobrinha nas contribuições do GitHub"
     width="100%"
   />
-
-</div>
-
----
-
-## ☕ Codando, aprendendo e evoluindo...
-
-<div align="center">
-
-  <i>"A prática transforma conhecimento em experiência."</i>
 
 </div>
 
