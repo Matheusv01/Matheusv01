@@ -4,13 +4,8 @@
 
   <h1>Olá, eu sou Matheus Vinicius S. Chaves!</h1>
   <h3>Estudante de programação | Desenvolvedor em evolução</h3>
-
-  <img src="https://komarev.com/ghpvc/?username=Matheusv01&label=VISITAS%20AO%20PERFIL&color=8A2BE2&style=for-the-badge" alt="Contador de visitantes do perfil" />
 </div>
 
-<div align="center">
-  <img height="260" src="https://i.giphy.com/media/k1Psl92gw7YPSPYFKm/giphy.webp" alt="Animação de dança" />
-</div>
 
 
 <div align="center">
