@@ -45,14 +45,14 @@ Sobre mim
 
 </div>
 
-Atividade de contribuições
+Atividade de contribuições:
+
 <div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheusv01&bg_color=00000000&color=9D7BFF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de atividade do GitHub" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheusv01&theme=purple" alt="Gráfico de Atividade do GitHub" width="100%" />
 </div>
 
-A cobrinha das contribuições
+A cobrinha das contribuições:
+
 <div align="center">
 
   <img src="https://raw.githubusercontent.com/Matheusv01/Matheusv01/output/snake.svg" alt="Animação da cobrinha nas contribuições do GitHub" />
