@@ -19,7 +19,7 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: Matheusv01
-          outputs: dist/snake.svg?color_snake=BF91F3&color_dots=1A1025,3B1D5A,6F42C1,9D7BFF,E0C3FC
+          outputs: "dist/snake.svg?color_snake=BF91F3&color_dots=1A1025,3B1D5A,6F42C1,9D7BFF,E0C3FC"
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
