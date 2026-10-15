@@ -43,11 +43,17 @@ Sobre mim
     <img src="https://skillicons.dev/icons?i=html,css" alt="HTML5 e CSS3" height="40" />
   </p>
 
-### Atividade de contribuições
+
+<h3 align="center">Atividade de contribuições</h3>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheusv01&bg_color=0D1117&color=9D7BFF&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Gráfico de atividade do GitHub" width="100%" />
+  <img
+    src="https://raw.githubusercontent.com/Matheusv01/Matheusv01/activity-assets/activity-30d.svg"
+    alt="Gráfico de atividade do GitHub dos últimos 30 dias"
+    width="100%"
+  />
 </div>
+
 
 A cobrinha das contribuições:
 
